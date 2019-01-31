@@ -1,0 +1,3 @@
+HTML pretty repporter based on the NodeJS report the test cases of all the browsers like Safari, Edge, Chrome, Firefox, Opera etc 
+in one file making dynamic tabs for as per the number of browsers and the reports generated giving proper facility to compare results 
+from different browser withing one file 
